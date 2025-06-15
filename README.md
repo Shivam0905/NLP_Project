@@ -20,7 +20,4 @@ A machine learning-based web application to detect spam messages. It uses Python
 - **Machine Learning**: scikit-learn, nltk
 - **Libraries**: pandas, joblib, sklearn
 
----
-
-## 📁 Project Structure
 
